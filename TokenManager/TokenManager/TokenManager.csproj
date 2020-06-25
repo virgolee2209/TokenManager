@@ -58,6 +58,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AppKeys.resx</DependentUpon>
     </Compile>
+    <Compile Include="ExtensionMethods.cs" />
     <Compile Include="JwtHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
